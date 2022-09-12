@@ -28,5 +28,8 @@
 
 # Executables
 *.exe
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 *.out
 *.app
